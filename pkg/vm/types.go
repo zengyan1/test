@@ -66,7 +66,6 @@ const (
 	MergeBlock
 	Right
 	OnDuplicateKey
-	PreInsert
 
 	// LastInstructionOp is not a true operator and must set at last.
 	// It was used by unit testing to ensure that
